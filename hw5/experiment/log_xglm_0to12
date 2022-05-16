@@ -1,0 +1,17 @@
+Accuracy of 0-shot on en: 0.4608782435129741
+Accuracy of 0-shot on en: 0.45888223552894214
+Accuracy of 12-shot on en: 0.4235528942115768
+Accuracy of 0-shot on fr: 0.4471057884231537
+Accuracy of 12-shot on fr: 0.36706586826347304
+Accuracy of 0-shot on ru: 0.4277445109780439
+Accuracy of 12-shot on ru: 0.3974051896207585
+Accuracy of 0-shot on zh: 0.3463073852295409
+Accuracy of 12-shot on zh: 0.39880239520958083
+Accuracy of 0-shot on hi: 0.4165668662674651
+Accuracy of 12-shot on hi: 0.3253493013972056
+Accuracy of 0-shot on ur: 0.3588822355289421
+Accuracy of 12-shot on ur: 0.35728542914171657
+Accuracy of 0-shot on bg: 0.4608782435129741
+Accuracy of 12-shot on bg: 0.42574850299401196
+Accuracy of 0-shot on vi: 0.4119760479041916
+Accuracy of 12-shot on vi: 0.3445109780439122
